@@ -15,10 +15,10 @@ This folder adds a probabilistic, triad‑aware scoring pipeline consistent with
 - `matching/stable.py` — simple Gale–Shapley matching on lists.
 
 ## Quick start
-Assuming you already produced `export.csv`, `couples.csv`, and `tiger-alg/meta.json` as in the repo README:
+Assuming you already produced `export.csv`, `couples.csv`, and `algorithm/meta.json` as in the repo README:
 
 ```bash
-cd tiger-alg
+cd algorithm
 python scoring/score_pairs_cli.py \
   --export_csv ../export.csv \
   --meta_json meta.json \
@@ -94,7 +94,7 @@ python eval/evaluate_pam.py \
 For a small‑n friendly, IDF‑weighted, LCB‑penalized scoring and matching pipeline described in `ROADMAP.md`:
 
 ```bash
-cd tiger-alg
+cd algorithm
 python matching/merged_pipeline.py \
   --export_csv ../export.csv \
   --couples_csv ../couples.csv \

@@ -9,7 +9,7 @@ import re
 import sys
 
 ROOT = Path(".")
-MERGED = ROOT / "tiger-alg" / "out_merged"
+MERGED = ROOT / "algorithm" / "out_merged"
 
 def load_id2name():
     """Load participant ID -> name mapping from export.csv and couples.csv"""
@@ -325,4 +325,3 @@ if not fragile_found:
     print("  (none)")
 
 print("\nDone.\n")
-
