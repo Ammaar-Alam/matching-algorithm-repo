@@ -9,7 +9,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import roc_auc_score
 
-# ensure tiger-alg root on path
+# ensure algorithm/ root on path
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
 from train.data import load_meta, build_pairwise_dataset, DOMAINS

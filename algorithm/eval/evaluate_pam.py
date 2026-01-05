@@ -3,7 +3,7 @@ from __future__ import annotations
 import argparse, json, random, os, sys
 from typing import Dict, Any, List, Tuple
 
-# ensure tiger-alg root on path for sibling package imports
+# ensure algorithm/ root on path for sibling package imports
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
 import numpy as np

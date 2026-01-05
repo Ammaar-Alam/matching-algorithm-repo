@@ -9,7 +9,7 @@ from typing import Dict, Any, List, Tuple
 import numpy as np
 import pandas as pd
 
-# ensure tiger-alg root on path for sibling packages
+# ensure algorithm/ root on path for sibling packages
 ROOT = os.path.dirname(os.path.dirname(__file__))
 if ROOT not in sys.path:
   sys.path.insert(0, ROOT)

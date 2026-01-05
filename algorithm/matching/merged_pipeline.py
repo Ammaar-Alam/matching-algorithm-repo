@@ -11,7 +11,7 @@ from typing import Any, Dict, List, Tuple
 import numpy as np
 import pandas as pd
 
-# ensure tiger-alg root on path for sibling imports
+# ensure algorithm/ root on path for sibling imports
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
 from algorithms.core import DEFAULT_DOMAIN_MULTIPLIER  # noqa: E402

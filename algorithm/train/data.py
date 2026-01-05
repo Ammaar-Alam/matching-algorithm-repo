@@ -6,7 +6,7 @@ from typing import Dict, Any, Tuple, List
 import numpy as np
 import pandas as pd
 
-# ensure tiger-alg root on path
+# ensure algorithm/ root on path
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
 from algorithms.core import extract_priorities_from_q47

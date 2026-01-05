@@ -143,7 +143,7 @@ async function main(){
   const outDir = path.join(process.cwd())
   const exportPath = path.join(outDir, 'export.csv')
   const couplesPath = path.join(outDir, 'couples.csv')
-  const algDir = path.join(process.cwd(), 'tiger-alg')
+  const algDir = path.join(process.cwd(), 'algorithm')
 
   if (source === 'api'){
     const url = await prompt('Admin export URL', process.env.ADMIN_EXPORT_URL || 'https://<your-domain>/api/admin/export')
@@ -172,7 +172,7 @@ async function main(){
   console.log('Evaluating…')
   await run(py, ['eval/evaluate_couples.py','--export_csv','../export.csv','--couples_csv','../couples.csv','--meta_json','meta.json','--questions_json','../data/questions.json','--outdir','out','--nonpartner_samples', String(Number(nps)||0)], algDir)
 
-  console.log('Done. See tiger-alg/out/summary_by_variant.csv and tiger-alg/out/per_couple_scores.csv')
+  console.log('Done. See algorithm/out/summary_by_variant.csv and algorithm/out/per_couple_scores.csv')
 }
 
 main().catch(e => { console.error(e); process.exit(1) })

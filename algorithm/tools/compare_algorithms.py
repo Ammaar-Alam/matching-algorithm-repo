@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Dict, Any
 
 
-BASE_DIR = Path(__file__).resolve().parents[1]  # tiger-alg/
+BASE_DIR = Path(__file__).resolve().parents[1]  # algorithm/
 ROOT_DIR = BASE_DIR.parent                     # repo root
 
 COUPLES_CSV = ROOT_DIR / "couples.csv"

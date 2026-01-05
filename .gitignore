@@ -29,7 +29,7 @@ processed_snippets.json
 client/dist/
 *.csv
 */*.csv
-tiger-alg/meta.json
+algorithm/meta.json
 *.json
 */*.json
 *.npz
