@@ -1,0 +1,15 @@
+\begin{table}[h]
+\centering
+\caption{Algorithm Comparison on Established Couples (n=6)}
+\label{tab:algorithm-comparison}
+\begin{tabular}{lcccccc}
+\toprule
+Algorithm & Hit@1 & Hit@3 & Hit@5 & MRR & AUC & Median Rank \\
+\midrule
+Evolutionary & 50\% & 67\% & 67\% & 0.59 & 0.36 & 2.0 \\
+Soft-Gated & 17\% & 42\% & 50\% & 0.35 & 0.50 & 6.0 \\
+Baseline & 8\% & 33\% & 33\% & 0.27 & 0.54 & 7.0 \\
+Merged IDF+LCB & 0\% & 25\% & 33\% & 0.16 & - & 7.0 \\
+\bottomrule
+\end{tabular}
+\end{table}
