@@ -1,0 +1,611 @@
+[
+  {
+    "id": "Q1",
+    "section": "1) Personality (TIPI)",
+    "domain": "Personality",
+    "construct": "Extraversion",
+    "text": "I see myself as extraverted, enthusiastic.",
+    "responseType": "Likert7",
+    "options": [],
+    "order": 1
+  },
+  {
+    "id": "Q2",
+    "section": "1) Personality (TIPI)",
+    "domain": "Personality",
+    "construct": "Agreeableness",
+    "text": "I see myself as critical, quarrelsome.",
+    "responseType": "Likert7",
+    "options": [],
+    "order": 2
+  },
+  {
+    "id": "Q3",
+    "section": "1) Personality (TIPI)",
+    "domain": "Personality",
+    "construct": "Conscientiousness",
+    "text": "I see myself as dependable, self\u2011disciplined.",
+    "responseType": "Likert7",
+    "options": [],
+    "order": 3
+  },
+  {
+    "id": "Q4",
+    "section": "1) Personality (TIPI)",
+    "domain": "Personality",
+    "construct": "Emotional Stability",
+    "text": "I see myself as anxious, easily upset.",
+    "responseType": "Likert7",
+    "options": [],
+    "order": 4
+  },
+  {
+    "id": "Q5",
+    "section": "1) Personality (TIPI)",
+    "domain": "Personality",
+    "construct": "Openness",
+    "text": "I see myself as open to new experiences, complex.",
+    "responseType": "Likert7",
+    "options": [],
+    "order": 5
+  },
+  {
+    "id": "Q6",
+    "section": "1) Personality (TIPI)",
+    "domain": "Personality",
+    "construct": "Extraversion",
+    "text": "I see myself as reserved, quiet.",
+    "responseType": "Likert7",
+    "options": [],
+    "order": 6
+  },
+  {
+    "id": "Q7",
+    "section": "1) Personality (TIPI)",
+    "domain": "Personality",
+    "construct": "Agreeableness",
+    "text": "I see myself as sympathetic, warm.",
+    "responseType": "Likert7",
+    "options": [],
+    "order": 7
+  },
+  {
+    "id": "Q8",
+    "section": "1) Personality (TIPI)",
+    "domain": "Personality",
+    "construct": "Conscientiousness",
+    "text": "I see myself as disorganized, careless.",
+    "responseType": "Likert7",
+    "options": [],
+    "order": 8
+  },
+  {
+    "id": "Q9",
+    "section": "1) Personality (TIPI)",
+    "domain": "Personality",
+    "construct": "Emotional Stability",
+    "text": "I see myself as calm, emotionally stable.",
+    "responseType": "Likert7",
+    "options": [],
+    "order": 9
+  },
+  {
+    "id": "Q10",
+    "section": "1) Personality (TIPI)",
+    "domain": "Personality",
+    "construct": "Openness",
+    "text": "I see myself as conventional, uncreative.",
+    "responseType": "Likert7",
+    "options": [],
+    "order": 10
+  },
+  {
+    "id": "Q11",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Self-Direction",
+    "text": "Thinking up new ideas and being creative matters; prefers to do things in their own original way.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 11
+  },
+  {
+    "id": "Q12",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Power",
+    "text": "Being rich and having expensive things is important.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 12
+  },
+  {
+    "id": "Q13",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Universalism",
+    "text": "Everyone should be treated equally; people should have equal opportunities.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 13
+  },
+  {
+    "id": "Q14",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Achievement",
+    "text": "Wants to show abilities and be admired for accomplishments.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 14
+  },
+  {
+    "id": "Q15",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Security",
+    "text": "Values safe, secure surroundings; avoids danger.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 15
+  },
+  {
+    "id": "Q16",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Stimulation",
+    "text": "Likes surprises; seeks new and different experiences.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 16
+  },
+  {
+    "id": "Q17",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Conformity",
+    "text": "People should follow rules, even when no one is watching.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 17
+  },
+  {
+    "id": "Q18",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Universalism",
+    "text": "Thinks it\u2019s important to listen to different people and try to understand them.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 18
+  },
+  {
+    "id": "Q19",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Tradition",
+    "text": "Being humble and modest; avoids drawing attention.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 19
+  },
+  {
+    "id": "Q20",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Hedonism",
+    "text": "Having a good time and occasionally indulging is important.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 20
+  },
+  {
+    "id": "Q21",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Self-Direction",
+    "text": "Prefers to make their own decisions; values independence.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 21
+  },
+  {
+    "id": "Q22",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Benevolence",
+    "text": "Helping people nearby and caring for their well\u2011being is very important.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 22
+  },
+  {
+    "id": "Q23",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Achievement",
+    "text": "Being very successful and recognized for it matters.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 23
+  },
+  {
+    "id": "Q24",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Security",
+    "text": "Wants a strong society/government to ensure safety against threats.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 24
+  },
+  {
+    "id": "Q25",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Stimulation",
+    "text": "Looks for adventures and likes to take risks; wants an exciting life.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 25
+  },
+  {
+    "id": "Q26",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Conformity",
+    "text": "Always tries to behave properly; avoids doing what others say is wrong.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 26
+  },
+  {
+    "id": "Q27",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Power",
+    "text": "Wants respect from others; prefers when people do what they say.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 27
+  },
+  {
+    "id": "Q28",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Benevolence",
+    "text": "Loyal and devoted to close friends.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 28
+  },
+  {
+    "id": "Q29",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Universalism",
+    "text": "People should care for nature; protecting the environment is important.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 29
+  },
+  {
+    "id": "Q30",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Tradition",
+    "text": "Tradition matters; follows customs handed down by family or religion.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 30
+  },
+  {
+    "id": "Q31",
+    "section": "2) Core Values (PVQ\u201121)",
+    "domain": "Values",
+    "construct": "Hedonism",
+    "text": "Seeks chances to have fun; enjoys pleasurable activities.",
+    "responseType": "Likert6",
+    "options": [],
+    "order": 31
+  },
+  {
+    "id": "Q32",
+    "section": "3) Social Preferences",
+    "domain": "Social",
+    "construct": "Weekend style",
+    "text": "Your ideal weekend evening is usually:",
+    "responseType": "MC_SINGLE",
+    "options": [
+      "Quiet with 1\u20132 close friends",
+      "Small gathering (3\u20136)",
+      "Large party or event",
+      "Solo recharge",
+      "Campus performance/sport/event"
+    ],
+    "order": 32
+  },
+  {
+    "id": "Q33",
+    "section": "3) Social Preferences",
+    "domain": "Social",
+    "construct": "Preferred group size",
+    "text": "When you hang out socially, what group size do you usually prefer?",
+    "responseType": "MC_SINGLE",
+    "options": [
+      "1\u20132 people",
+      "3\u20135 people",
+      "6\u201310 people",
+      "11+ people"
+    ],
+    "order": 33
+  },
+  {
+    "id": "Q34",
+    "section": "3) Social Preferences",
+    "domain": "Social",
+    "construct": "Post\u2011event energy",
+    "text": "After 3\u20134 hours at a large social event, how do you typically feel?",
+    "responseType": "Likert5",
+    "options": [
+      "Very drained",
+      "Somewhat drained",
+      "Neutral",
+      "Somewhat energized",
+      "Very energized"
+    ],
+    "order": 34
+  },
+  {
+    "id": "Q35",
+    "section": "3) Social Preferences",
+    "domain": "Social",
+    "construct": "Conversation depth",
+    "text": "How do you feel about deep, meaningful conversations with friends?",
+    "responseType": "Likert5",
+    "options": [
+      "I avoid them",
+      "Okay occasionally",
+      "Enjoy sometimes",
+      "Really enjoy",
+      "Seek them out regularly"
+    ],
+    "order": 35
+  },
+  {
+    "id": "Q36",
+    "section": "4) Communication & Friendship",
+    "domain": "Communication",
+    "construct": "Concern handling",
+    "text": "When something a close friend does bothers you, what\u2019s your typical first step?",
+    "responseType": "MC_SINGLE",
+    "options": [
+      "Address it directly right away",
+      "Think first & bring it up later",
+      "Wait to see if it resolves",
+      "Hint indirectly",
+      "Talk to others first"
+    ],
+    "order": 36
+  },
+  {
+    "id": "Q37",
+    "section": "4) Communication & Friendship",
+    "domain": "Communication",
+    "construct": "Feedback preference",
+    "text": "How do you prefer to receive constructive feedback from someone close to you?",
+    "responseType": "MC_SINGLE",
+    "options": [
+      "Very directly & immediately",
+      "In private face\u2011to\u2011face",
+      "In writing first",
+      "Gently with lots of context",
+      "Only if truly necessary"
+    ],
+    "order": 37
+  },
+  {
+    "id": "Q38",
+    "section": "4) Communication & Friendship",
+    "domain": "Communication",
+    "construct": "Disagreement instinct",
+    "text": "In a disagreement with someone close, your default is to\u2026",
+    "responseType": "MC_SINGLE",
+    "options": [
+      "Seek a quick compromise",
+      "Discuss until we fully understand each other",
+      "Step back & give it time",
+      "Stand your ground",
+      "Defer to keep the peace"
+    ],
+    "order": 38
+  },
+  {
+    "id": "Q39",
+    "section": "4) Communication & Friendship",
+    "domain": "Friendship Qualities",
+    "construct": "Emotional openness",
+    "text": "How comfortable are you sharing personal feelings and vulnerabilities with a close friend?",
+    "responseType": "Likert5",
+    "options": [
+      "Not at all comfortable",
+      "Slightly",
+      "Moderately",
+      "Very",
+      "Extremely"
+    ],
+    "order": 39
+  },
+  {
+    "id": "Q40",
+    "section": "4) Communication & Friendship",
+    "domain": "Friendship Qualities",
+    "construct": "Support style",
+    "text": "If a friend is going through a difficult time, you are more likely to\u2026",
+    "responseType": "MC_SINGLE",
+    "options": [
+      "Give advice and solutions",
+      "Listen and offer emotional support",
+      "Give them space unless they ask",
+      "Take concrete action to help"
+    ],
+    "order": 40
+  },
+  {
+    "id": "Q41",
+    "section": "5) Daily Habits & Lifestyle",
+    "domain": "Lifestyle",
+    "construct": "Sleep schedule",
+    "text": "If you had no obligations, your natural sleep schedule would be:",
+    "responseType": "MC_SINGLE",
+    "options": [
+      "Before 11pm / up ~7am",
+      "11pm\u201312am / up 7\u20138am",
+      "12\u20131am / up 8\u201310am",
+      "After 1am / up 10am+"
+    ],
+    "order": 41
+  },
+  {
+    "id": "Q42",
+    "section": "5) Daily Habits & Lifestyle",
+    "domain": "Lifestyle",
+    "construct": "Study/work environment",
+    "text": "Which study/work environment fits you best?",
+    "responseType": "MC_SINGLE",
+    "options": [
+      "Complete silence",
+      "Mostly quiet",
+      "Moderate background OK",
+      "Energetic/noisy helps"
+    ],
+    "order": 42
+  },
+  {
+    "id": "Q43",
+    "section": "5) Daily Habits & Lifestyle",
+    "domain": "Lifestyle",
+    "construct": "Tidiness",
+    "text": "How tidy do you usually keep your living space?",
+    "responseType": "MC_SINGLE",
+    "options": [
+      "Always organized",
+      "Generally tidy with occasional clutter",
+      "Moderately messy but functional",
+      "Often cluttered"
+    ],
+    "order": 43
+  },
+  {
+    "id": "Q44",
+    "section": "5) Daily Habits & Lifestyle",
+    "domain": "Lifestyle",
+    "construct": "Punctuality",
+    "text": "Which best describes your typical punctuality?",
+    "responseType": "MC_SINGLE",
+    "options": [
+      "Usually early",
+      "Right on time",
+      "A few minutes late",
+      "Often late"
+    ],
+    "order": 44
+  },
+  {
+    "id": "Q45",
+    "section": "5) Daily Habits & Lifestyle",
+    "domain": "Lifestyle",
+    "construct": "Healthy meals importance",
+    "text": "How important is eating healthy, home\u2011cooked meals regularly?",
+    "responseType": "Likert5",
+    "options": [
+      "Not at all important",
+      "Slightly",
+      "Moderately",
+      "Very",
+      "Extremely"
+    ],
+    "order": 45
+  },
+  {
+    "id": "Q46",
+    "section": "5) Daily Habits & Lifestyle",
+    "domain": "Lifestyle",
+    "construct": "Alcohol frequency",
+    "text": "How often do you consume alcohol?",
+    "responseType": "MC_SINGLE",
+    "options": [
+      "Never",
+      "Rarely (few times/year)",
+      "Occasionally (1\u20132\u00d7/month)",
+      "Regularly (1\u20132\u00d7/week)",
+      "Frequently (3+\u00d7/week)"
+    ],
+    "order": 46
+  },
+  {
+    "id": "Q47",
+    "section": "6) Priorities & Deal\u2011breakers",
+    "domain": "Importance Weighting",
+    "construct": "Top priorities",
+    "text": "Which THREE of these matter most to you in a compatible match? (Select up to 3)",
+    "responseType": "MC_MULTI",
+    "options": [
+      "Shared values",
+      "Communication style",
+      "Activity interests",
+      "Daily routine compatibility",
+      "Similar background",
+      "Intellectual connection"
+    ],
+    "order": 47
+  },
+  {
+    "id": "Q48",
+    "section": "6) Priorities & Deal\u2011breakers",
+    "domain": "Deal\u2011breakers",
+    "construct": "Political difference acceptability",
+    "text": "Would you match with someone whose political views are very different from yours?",
+    "responseType": "Likert5",
+    "options": [
+      "Definitely no",
+      "Probably no",
+      "Maybe/depends",
+      "Probably yes",
+      "Definitely yes"
+    ],
+    "order": 48
+  },
+  {
+    "id": "Q49",
+    "section": "6) Priorities & Deal\u2011breakers",
+    "domain": "Deal\u2011breakers",
+    "construct": "Religious difference acceptability",
+    "text": "Would you match with someone whose religious beliefs/practices are very different from yours?",
+    "responseType": "Likert5",
+    "options": [
+      "Definitely no",
+      "Probably no",
+      "Maybe/depends",
+      "Probably yes",
+      "Definitely yes"
+    ],
+    "order": 49
+  },
+  {
+    "id": "Q50",
+    "section": "6) Priorities & Deal\u2011breakers",
+    "domain": "Deal\u2011breakers",
+    "construct": "Substance use boundaries",
+    "text": "Which of the following would be a deal\u2011breaker for you? (Select all that apply)",
+    "responseType": "MC_MULTI",
+    "options": [
+      "Regular nicotine use",
+      "Regular cannabis use",
+      "Frequent heavy drinking",
+      "I prefer sober\u2011only socializing",
+      "None of these"
+    ],
+    "order": 50
+  }
+]
